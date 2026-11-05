@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://www.getintandem.io/favicon.svg" height="14"/> [Intandem GovCon](https://github.com/steve-in-tandem/govcon-mcp) - Query 1,460+ US government contracting & FAR/DFARS references from [Intandem](https://www.getintandem.io/government-contracting-resources), including 351 NAICS size standards, PSC/NIGP commodity cross-walks, 50-state & city procurement portals, and SBA set-aside rules.
 
 <br />
 
